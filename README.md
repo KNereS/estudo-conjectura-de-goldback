@@ -12,4 +12,4 @@ Verificações por computador já confirmaram a conjetura de Goldbach para muito
 
 ## PROBLEMA:
 
-![Fragmento do livro inspirador da solução](/assets/problema.jpg)
+![Fragmento do livro inspirador da solução](problema.png)
