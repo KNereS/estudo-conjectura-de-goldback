@@ -1,0 +1,1 @@
+# estudo-conjectura-de-goldback
